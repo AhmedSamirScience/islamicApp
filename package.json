@@ -1,0 +1,22 @@
+{
+  "name": "islamicapp",
+  "version": "1.0.0",
+  "description": "backendapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedSamirScience/islamicApp.git"
+  },
+  "author": "ahmedSamir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedSamirScience/islamicApp/issues"
+  },
+  "homepage": "https://github.com/AhmedSamirScience/islamicApp#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
