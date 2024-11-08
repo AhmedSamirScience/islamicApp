@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/AhmedSamirScience/islamicApp#readme",
   "dependencies": {
-    "express": "^4.21.1"
+    "ajv": "^8.17.1",
+    "express": "^4.21.1",
+    "helmet": "^8.0.0"
   }
 }
